@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" height="40" alt="WordPress" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/microsoftoffice/D83B01" height="40" alt="Office" />
+  <img src="https://www.uc3m.es/sdic/software/microsoft-office-365" height="40" alt="Office" />
 </p>
 
 ---
